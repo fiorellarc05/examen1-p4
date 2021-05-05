@@ -1,0 +1,48 @@
+/*Pages design*/
+
+/*body style*/
+body{
+    background: linear-gradient(to left,#41EAD4,#EDFDFB);
+    font-family: Tahoma;
+    font-size: 18px;
+    color: #02223C;
+}
+
+/*title style*/
+h1{
+    color: #FFB347;
+}
+
+h3{
+    color: #FFB347;
+}
+
+/*tables style*/
+.thead{
+    background: #02223C;
+    color: #F71735;
+}
+
+/*header style*/
+.header-custom{
+    background-color: white;
+}
+
+/*footer style*/
+.footer-custom{
+    background-color: #02223C; 
+    color: #FFB347;
+}
+
+/*alerts card style*/
+.card{
+    border-style: dashed;
+    border-color: #F71735;
+    opacity: 0.8;
+    color: #F71735;
+}
+
+.card-custom{
+    opacity: 1;
+    color: #FFB347;
+}
